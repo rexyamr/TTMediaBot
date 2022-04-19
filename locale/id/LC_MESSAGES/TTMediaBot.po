@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TTMediaBot VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-04-15 20:02+0700\n"
-"PO-Revision-Date: 2022-04-15 20:17+0700\n"
+"POT-Creation-Date: 2022-04-19 14:03+0700\n"
+"PO-Revision-Date: 2022-04-19 14:23+0700\n"
 "Last-Translator: \n"
 "Language-Team: Infinity Art And Technology\n"
 "Language: id_ID\n"
@@ -22,7 +22,8 @@ msgstr ""
 #: D:/appdata/TTMediaBot/bot/app_vars.py:11
 msgid ""
 "A media streaming bot for TeamTalk.\n"
-"Authors: Amir Gumerov, Vladislav Kopylov, Beqa Gozalishvili, Kirill Belousov.\n"
+"Authors: Amir Gumerov, Vladislav Kopylov, Beqa Gozalishvili, Kirill "
+"Belousov.\n"
 "Home page: https://github.com/gumerov-amir/TTMediaBotLicense: Mit License"
 msgstr ""
 "Bot streaming media untuk TeamTalk.\n"
@@ -65,12 +66,12 @@ msgstr "Perintah tidak diketahui."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:20
 msgid ""
-"+/-COMMAND Blocks or unblocks commands. +COMMAND adds command to the blocklist. "
-"-COMMAND removes from it. Without a command shows the blocklist"
+"+/-COMMAND Blocks or unblocks commands. +COMMAND adds command to the "
+"blocklist. -COMMAND removes from it. Without a command shows the blocklist"
 msgstr ""
 "+/-Perintah Memblokir atau membuka blokir perintah. +Perintah tambahkan "
-"perintah ke daftar blokir. -Perintah hapus perintah dari daftar perintah. Tanpa "
-"argumen apapun, tampilkan daftar blokir."
+"perintah ke daftar blokir. -Perintah hapus perintah dari daftar perintah. "
+"Tanpa argumen apapun, tampilkan daftar blokir."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:32
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:322
@@ -122,7 +123,8 @@ msgstr "Bahasa tidak tersedia."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:82
 msgid ""
-"Current language: {current_language}. Available languages: {available_languages}"
+"Current language: {current_language}. Available languages: "
+"{available_languages}"
 msgstr ""
 "Bahasa saat ini: {current_language}. Bahasa yang tersedia: "
 "{available_languages}."
@@ -133,8 +135,8 @@ msgstr "NAMA PANGGILAN ubah nama panggilan bot."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:103
 msgid ""
-"r/f Clears bot's cache. r clears recents, f clears favorites, without an option "
-"clears the entire cache"
+"r/f Clears bot's cache. r clears recents, f clears favorites, without an "
+"option clears the entire cache"
 msgstr ""
 "r/f Membersihkan cache bot. r hapus daftar terbaru, f hapus daftar favorit, "
 "tanpa argumen apapun hapus seluruh cache."
@@ -154,8 +156,8 @@ msgstr "Daftar cache favorit dibersihkan."
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:126
 msgid ""
 "Join channel. first argument is channel name or id, second argument is "
-"password, split argument \" | \", if password is undefined, don't type second "
-"argument"
+"password, split argument \" | \", if password is undefined, don't type "
+"second argument"
 msgstr ""
 "Gabung dengan saluran. argumen pertama adalah nama atau ID saluran, argumen "
 "kedua adalah kata sandi, Setiap argumen dipisahkan oleh tanda garis fertikal "
@@ -232,12 +234,12 @@ msgstr "Konfigurasi disimpan."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:296
 msgid ""
-"+/-USERNAME Manages a list of administrators. +USERNAME adds a user. -USERNAME "
-"removes it. Without an option shows the list"
+"+/-USERNAME Manages a list of administrators. +USERNAME adds a user. -"
+"USERNAME removes it. Without an option shows the list"
 msgstr ""
-"+/-NAMAPENGGUNA Kelola daftar administrator. +NAMAPENGGUNA tambahkan pengguna "
-"ke daftar administrator. -NAMAPENGGUNA hapus dari daftar administrator. Tampa "
-"argumen apapun tampilkan daftar administrator."
+"+/-NAMAPENGGUNA Kelola daftar administrator. +NAMAPENGGUNA tambahkan "
+"pengguna ke daftar administrator. -NAMAPENGGUNA hapus dari daftar "
+"administrator. Tampa argumen apapun tampilkan daftar administrator."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:312
 msgid "This user is not in the admin list"
@@ -248,10 +250,10 @@ msgid ""
 "+/-USERNAME Manages a list of banned users. +USERNAME adds a user. -USERNAME "
 "removes it. Without an option shows the list"
 msgstr ""
-"+/-NAMAPENGGUNA KELOLA daftar pengguna yang dilarang. +NAMAPENGGUNA tambahkan "
-"pengguna ke daftar pengguna yang dilarang. -NAMAPENGGUNA hapus dari daftar "
-"pengguna yang dilarang. Tanpa argumen apapun tampilkan daftar pengguna yang "
-"dilarang."
+"+/-NAMAPENGGUNA KELOLA daftar pengguna yang dilarang. +NAMAPENGGUNA "
+"tambahkan pengguna ke daftar pengguna yang dilarang. -NAMAPENGGUNA hapus "
+"dari daftar pengguna yang dilarang. Tanpa argumen apapun tampilkan daftar "
+"pengguna yang dilarang."
 
 #: D:/appdata/TTMediaBot/bot/commands/admin_commands.py:344
 msgid "This user is not banned"
@@ -279,8 +281,8 @@ msgstr "Tampilkan informasi tentang bot."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:34
 msgid ""
-"QUERY Plays tracks found for the query. If no query is given, plays or pauses "
-"current track"
+"QUERY Plays tracks found for the query. If no query is given, plays or "
+"pauses current track"
 msgstr ""
 "KUERI Memutar trek yang ditemukan untuk kueri. Jika tidak ada kueri yang "
 "diberikan, putar atau jeda trek saat ini."
@@ -351,18 +353,20 @@ msgstr "Tidak ada yang diputar."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:122
 msgid ""
-"VOLUME Sets the volume to a value between 0 and {max_volume}. If no volume is "
-"specified, the current volume level is displayed"
+"VOLUME Sets the volume to a value between 0 and {max_volume}. If no volume "
+"is specified, the current volume level is displayed"
 msgstr ""
 "VOLUME Menyetel volume ke nilai antara 0 dan {max_volume}. Jika tidak ada "
 "volume yang ditentukan, level volume saat ini ditampilkan."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:143
-msgid "STEP Seeks current track backward. the default step is {seek_step} seconds"
+msgid ""
+"STEP Seeks current track backward. the default step is {seek_step} seconds"
 msgstr "Mundur {seek_step} detik."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:162
-msgid "STEP Seeks current track forward. the default step is {seek_step} seconds"
+msgid ""
+"STEP Seeks current track forward. the default step is {seek_step} seconds"
 msgstr "Maju {seek_step} detik."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:181
@@ -415,7 +419,7 @@ msgid ""
 "{modes}"
 msgstr ""
 "Mode saat ini: {current_mode}\n"
-"{mode}."
+"{modes}."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:246
 msgid "Current mode: {mode}"
@@ -423,13 +427,13 @@ msgstr "Mode saat ini: {mode}."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:258
 msgid ""
-"SERVICE Selects the service to play from, sv SERVICE h returns additional help. "
-"If no service is specified, the current service and a list of available "
-"services are displayed"
+"SERVICE Selects the service to play from, sv SERVICE h returns additional "
+"help. If no service is specified, the current service and a list of "
+"available services are displayed"
 msgstr ""
 "LAYANAN Memilih layanan untuk digunakan, sv LAYANAN h TAMPILKAN bantuan "
-"tambahan. Jika tidak ada layanan yang ditentukan, layanan saat ini dan daftar "
-"layanan yang tersedia akan ditampilkan."
+"tambahan. Jika tidak ada layanan yang ditentukan, layanan saat ini dan "
+"daftar layanan yang tersedia akan ditampilkan."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:267
 msgid ""
@@ -505,8 +509,8 @@ msgstr "Daftar terlampaui."
 
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:371
 msgid ""
-"SPEED Sets playback speed from 0.25 to 4. If no speed is given, shows current "
-"speed"
+"SPEED Sets playback speed from 0.25 to 4. If no speed is given, shows "
+"current speed"
 msgstr ""
 "KECEPATAN Mengatur kecepatan pemutaran dari 0,25 hingga 4. Jika tidak ada "
 "kecepatan yang ditetapkan, tampilkan kecepatan saat ini."
@@ -518,8 +522,8 @@ msgstr "Kecepatan saat ini: {}."
 #: D:/appdata/TTMediaBot/bot/commands/user_commands.py:390
 msgid ""
 "+/-NUMBER Manages favorite tracks. + adds the current track to favorites. - "
-"removes a track requested from favorites. If a number is specified after +/-, "
-"adds/removes a track with that number"
+"removes a track requested from favorites. If a number is specified after "
+"+/-, adds/removes a track with that number"
 msgstr ""
 "+/-NOMOR kelola trek favorit. + tambahkan trek saat ini ke daftar favorit. -"
 "NOMOR hapus trek yang diminta dari daftar favorit. Jika nomor ditentukan "
@@ -583,7 +587,7 @@ msgstr "dijeda: {stream_url}."
 
 #: D:/appdata/TTMediaBot/bot/services/yam.py:42
 msgid "Token is not provided"
-msgstr "Token tidak disediakan."
+msgstr "Token tidak disediakan"
 
 #: D:/appdata/TTMediaBot/bot/services/yam.py:46
 msgid "You don't have Yandex Plus"
